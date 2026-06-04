@@ -1,4 +1,4 @@
-# NZ-Communicable-Disease-Dashboard
+# NZ-Communicable-Disease-Surveillance-Dashboard
 The NZ Communicable Disease Surveillance Dashboard is an interactive Tableau dashboard designed to support the monitoring and analysis of communicable diseases across New Zealand. The dashboard provides insights into disease trends, geographic distribution, demographic impacts, and healthcare facility burden through a series of interactive visualisations.
 
 The dashboard was inspired by New Zealand Public Health Foundation (PHF) disease surveillance dashboards and aims to provide a professional public health reporting interface for decision-makers, researchers, and healthcare professionals.
