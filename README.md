@@ -1,9 +1,9 @@
-# NZ-Communicable-Disease-Surveillance-Dashboard
+NZ-Communicable-Disease-Surveillance-Dashboard
 The NZ Communicable Disease Surveillance Dashboard is an interactive Tableau dashboard designed to support the monitoring and analysis of communicable diseases across New Zealand. The dashboard provides insights into disease trends, geographic distribution, demographic impacts, and healthcare facility burden through a series of interactive visualisations.
 
 The dashboard was inspired by New Zealand Public Health Foundation (PHF) disease surveillance dashboards and aims to provide a professional public health reporting interface for decision-makers, researchers, and healthcare professionals.
 
-## Objectives
+Objectives
 
 The dashboard enables users to:
 
@@ -14,7 +14,7 @@ The dashboard enables users to:
 * Compare disease burden across regions and hospitals
 * Support evidence-based public health decision-making
 
-## Technologies Used
+Technologies Used
 
 * Tableau Desktop
 * Microsoft Excel
@@ -22,11 +22,11 @@ The dashboard enables users to:
 * Data Visualisation
 * Public Health Surveillance Analytics
 
-## Dataset
+Dataset
 
 The dashboard uses a disease surveillance dataset containing:
 
-### Geographic Information
+Geographic Information
 
 * Region
 * Island
@@ -35,7 +35,7 @@ The dashboard uses a disease surveillance dataset containing:
 * Longitude
 * Health NZ Locality
 
-### Disease Information
+Disease Information
 
 * Disease Type
 * Cases
@@ -43,20 +43,20 @@ The dashboard uses a disease surveillance dataset containing:
 * Hospitalisations
 * Rate per 100,000 Population
 
-### Temporal Information
+Temporal Information
 
 * Year
 * Month
 
-### Demographic Information
+Demographic Information
 
 * Age Group
 * Gender
 * Ethnicity
 
-## Dashboard Features
+Dashboard Features
 
-### 1. Global Filters
+Global Filters
 
 Interactive filters allow users to explore data by:
 
@@ -65,7 +65,7 @@ Interactive filters allow users to explore data by:
 * Region
 * Island
 
-### 2. Key Performance Indicators (KPIs)
+Key Performance Indicators (KPIs)
 
 The dashboard includes four KPI cards:
 
@@ -76,7 +76,7 @@ The dashboard includes four KPI cards:
 
 These indicators update dynamically based on selected filters.
 
-### 3. Reported Cases by Month
+Reported Cases by Month
 
 A monthly trend analysis visualisation showing:
 
@@ -84,7 +84,7 @@ A monthly trend analysis visualisation showing:
 * Seasonal trends
 * Peaks and declines in disease activity
 
-### 4. Disease Surveillance Map
+Disease Surveillance Map
 
 An interactive map displaying:
 
@@ -94,32 +94,32 @@ An interactive map displaying:
 
 The map supports geographic exploration and hotspot identification.
 
-### 5. Demographic Analysis
+Demographic Analysis
 
-#### Age Group Analysis
+Age Group Analysis
 
 Displays disease burden across different age groups.
 
-#### Gender Analysis
+Gender Analysis
 
 Compares reported cases across genders.
 
-#### Ethnicity Analysis
+Ethnicity Analysis
 
 Provides insights into disease distribution across ethnic groups.
 
 
-### 6. Regional Analysis
+Regional Analysis
 
-#### Top Regions by Reported Cases
+Top Regions by Reported Cases
 
 Highlights regions with the highest disease burden.
 
-#### Top Hospitals by Reported Cases
+Top Hospitals by Reported Cases
 
 Identifies hospitals reporting the largest number of cases.
 
-## Key Insights Supported
+Key Insights Supported
 
 The dashboard can be used to answer questions such as:
 
@@ -131,7 +131,7 @@ The dashboard can be used to answer questions such as:
 * How does disease burden vary geographically?
 
 
-## Author
+Author
 
 Salman
 
@@ -141,9 +141,6 @@ Victoria University of Wellington / Whitecliffe
 
 New Zealand
 
-## License
+License
 
 This project is intended for educational, research, and portfolio purposes only.
-
-* Gender
-* Ethnicity
